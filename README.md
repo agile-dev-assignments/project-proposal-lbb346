@@ -1,7 +1,7 @@
 # Project Proposal
 
 #### Collaborators 
-##### Lee Boodoo (LBB346)
+Lee Boodoo (LBB346)
 
 ## Project Title
 Animixer
